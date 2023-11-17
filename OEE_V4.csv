@@ -1,4 +1,4 @@
-presto,ft,w,act_run,sch_run,ideal_prod,good_out,availability,performance,quality,oee,obj,time,message,count,Presto Ok,PrestoNGst4 ,PrestoNGst7,PrestoTotal
+presto,ft,w,act_run,sch_run,ideal_prod,good_out,availability,performance,quality,oee,obj,time,message,count,PrestoOk,PrestoNGst4 ,PrestoNGst7,PrestoTotal
 456,1565,125,8,8,500,410.4,100,90,90,82,100,4/25/2023,Guard Door Open,369,342,68.4,45.6,456
 125,1554,425,3,8,500,112.5,38,25,90,8,100,4/26/2023,Stn.4 Consecutive Inspection Failure,87,93.75,18.75,12.5,125
 425,1543,511,4,8,500,382.5,50,85,90,38,100,4/27/2023,Stn.3 Heater Not At Temperature,85,318.75,63.75,42.5,425
