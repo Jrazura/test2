@@ -1,4 +1,4 @@
-presto,ft,w,act_run,sch_run,ideal_prod,good_out,availability,performance,quality,oee,obj,time,message,count,PrestoOk,PrestoNGst4,PrestoNGst7,PrestoTotal,Part I.D,Weld with LL,Weld with UP,Minimum weld width (mm),Average weld intensity,Weld Intensity Avg,Membrane intensity,Average Body intensity
+presto,ft,w,act_run,sch_run,ideal_prod,good_out,availability,performance,quality,oee,obj,time,message,count,PrestoOk,PrestoNGst4,PrestoNGst7,PrestoTotal,Part I.D,Weld width LL,Weld width UP,Minimum weld width (mm),Average weld intensity,Weld Intensity Avg,Membrane intensity,Average Body intensity
 456,1565,125,8,8,500,410.4,100,90,90,82,100,4/25/2023,Guard Door Open,369,342,68.4,45.6,456,DA0008-0006-3/8,1,2.479,3.14,156.188,156.188,253.491,148.475
 125,1554,425,3,8,500,112.5,38,25,90,8,100,4/26/2023,Stn.4 Consecutive Inspection Failure,87,93.75,18.75,12.5,125,DA0008-0007-3/8,1,2.479,2.388,164.97,164.97,252.511,152.555
 425,1543,511,4,8,500,382.5,50,85,90,38,100,4/27/2023,Stn.3 Heater Not At Temperature,85,318.75,63.75,42.5,425,DA0008-0008-3/8,1,2.479,2.532,163.955,163.955,252.071,150.406
@@ -12,7 +12,7 @@ presto,ft,w,act_run,sch_run,ideal_prod,good_out,availability,performance,quality
 425,1455,511,3,8,500,382.5,38,85,90,29,100,5/5/2023,Stn.6 Heater Not At Temperature,18,318.75,63.75,42.5,425,DA0008-0018-3/8,1,2.479,2.21,172.48,172.48,251.284,150.768
 511,1444,300,3,8,500,459.9,38,102,90,34,100,5/6/2023,Stn.9 Sequence Fault,16,383.25,76.65,51.1,511,DA0008-0019-3/8,1,2.479,2.25,169.278,169.278,252.037,150.987
 300,1433,589,1,8,500,270,13,60,90,7,100,5/7/2023,Stn.7 Inspection System Not Ready Fault,16,225,45,30,300,DA0008-0020-3/8,1,2.479,2.236,168.08,168.08,252.367,153.023
-589,1422,258,3,8,500,530.1,38,118,90,40,100,5/8/2023,Stn.6 Heater Comms Failure,16,441.75,88.35,58.9,589,DA0008-0021-3/8,1,2.479,2.262,0,0,252.338,153.532
+589,1422,258,3,8,500,530.1,38,118,90,40,100,5/8/2023,Stn.6 Heater Comms Failure,16,441.75,88.35,58.9,589,DA0008-0021-3/8,1,2.479,2.262,168.08,168.08,252.338,153.532
 258,1411,125,1,8,500,232.2,13,52,90,6,100,5/9/2023,Stn.8 Vacuum Sense Failure,15,193.5,38.7,25.8,258,DA0008-0022-3/8,1,2.479,2.338,166.65,166.65,252.104,152.297
 125,1400,425,3,8,500,112.5,38,25,90,8,100,5/10/2023,Stn.9 Parts Detected At Assy Position Fault,13,93.75,18.75,12.5,125,DA0008-0023-3/8,1,2.479,2.324,166.972,166.972,252.083,153.473
 425,1389,125,1,8,500,382.5,13,85,90,10,100,5/11/2023,Stn.2 Part Detected On Table Fault,12,318.75,63.75,42.5,425,DA0008-0024-3/8,1,2.479,2.314,168.243,168.243,252.772,153.046
